@@ -5,18 +5,28 @@ UBT Forums është një aplikacion i zhvilluar nga studentët, për studentët. 
 Disa nga funksionalitetet kryesore të projektit përfshijnë:
 
 Krijimi i profileve nga përdoruesit.
+
 Postimi i përmbajtjeve nga përdoruesit.
+
 Mundësia për të pëlqyer postimet.
+
 Chat në kohë reale.
+
 Gjetja e studentëve të tjerë.
+
 Përdoruesi mund të shohë dhe të aplikojë për aktivitetet e UBT-së përmes aplikacionit.
+
 Një panel admini për menaxhimin e gjithë aplikacionit.
+
 
 Teknologjitë:
 
 Front-end: React.js, Inertia
+
 Back-end: Laravel 11
+
 Styling: TailwindCSS
+
 Databases: MySQL dhe Redis (caching)
 
 📧 Për më shumë informata:
@@ -32,18 +42,30 @@ UBT Forums is an application developed by students, for students. Considering th
 Some of the main functionalities of the project include:
 
 User profile creation.
+
 Content posting by users.
+
 Ability to like posts.
+
 Real-time chat.
+
 Finding other students.
+
 Users can view and apply for UBT activities through the app.
+
 An admin panel for managing the entire application.
+
 Technologies:
 
+
 Front-end: React.js, Inertia
+
 Back-end: Laravel 11
+
 Styling: TailwindCSS
+
 Databases: MySQL and Redis (caching)
+
 
 📧 For more information:
 
