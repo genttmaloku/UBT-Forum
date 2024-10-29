@@ -36,7 +36,8 @@ Kontakt: contact@gentmaloku.live
 Info: info@gentmaloku.live
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------As part of the Lab Course 2, I would like to share with you our latest project, developed by a team of five people.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+As part of the Lab Course 2, I would like to share with you our latest project, developed by a team of five people.
 
 UBT Forums is an application developed by students, for students. Considering the lack of official platforms for communication and information sharing among UBT students, our team decided to create a dedicated university application to help students connect with each other using a more user-friendly interface.
 
