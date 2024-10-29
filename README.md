@@ -1,70 +1,52 @@
-<<<<<<< HEAD
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Në kuadër të lëndës Lab Kurs 2, dëshiroj të ndaj me ju projektin tonë më të fundit, të zhvilluar nga një ekip prej pesë personash.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+UBT Forums është një aplikacion i zhvilluar nga studentët, për studentët. Duke marrë parasysh mungesën e platformave zyrtare për komunikim dhe ndarje të informacionit midis studentëve të UBT-së, ekipi ynë ka vendosur të zhvillojë një aplikacion të dedikuar për të ndihmuar studentët të lidhen me njëri-tjetrin, duke ofruar një përvojë më miqësore për përdoruesin.
 
-## About Laravel
+Disa nga funksionalitetet kryesore të projektit përfshijnë:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Krijimi i profileve nga përdoruesit.
+Postimi i përmbajtjeve nga përdoruesit.
+Mundësia për të pëlqyer postimet.
+Chat në kohë reale.
+Gjetja e studentëve të tjerë.
+Përdoruesi mund të shohë dhe të aplikojë për aktivitetet e UBT-së përmes aplikacionit.
+Një panel admini për menaxhimin e gjithë aplikacionit.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Teknologjitë:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Front-end: React.js, Inertia
+Back-end: Laravel 11
+Styling: TailwindCSS
+Databases: MySQL dhe Redis (caching)
 
-## Learning Laravel
+📧 Për më shumë informata:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Kontakt: contact@gentmaloku.live
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Info: info@gentmaloku.live
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------As part of the Lab Course 2, I would like to share with you our latest project, developed by a team of five people.
 
-## Laravel Sponsors
+UBT Forums is an application developed by students, for students. Considering the lack of official platforms for communication and information sharing among UBT students, our team decided to create a dedicated university application to help students connect with each other using a more user-friendly interface.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Some of the main functionalities of the project include:
 
-### Premium Partners
+User profile creation.
+Content posting by users.
+Ability to like posts.
+Real-time chat.
+Finding other students.
+Users can view and apply for UBT activities through the app.
+An admin panel for managing the entire application.
+Technologies:
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Front-end: React.js, Inertia
+Back-end: Laravel 11
+Styling: TailwindCSS
+Databases: MySQL and Redis (caching)
 
-## Contributing
+📧 For more information:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Contact: contact@gentmaloku.live
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-# UBT-Forum
->>>>>>> d0141d84183a912f2cc2edf8e5d980101ac96ec4
+Info: info@gentmaloku.live
